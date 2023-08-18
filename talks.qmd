@@ -11,6 +11,7 @@
           text: Github
           href: https://github.com
 ---
+<i>Implementing Writing Exercises with Feedback into a 400-person, 8-Week Intermediate Biostatistics Course.</i> Invited Session. Annual Meetings of the American Statistical Association, Toronto ON, August 2023.
 
 <i>The Luxury (and Necessity) of Context in Graduate Level Statistics Courses for Health Sciences Students</i>. Invited Talk. Annual Meetings of the Statistical Society of Canada, Montreal QB, June 2018.
 
