@@ -1,0 +1,15 @@
+---
+title: ""
+about: 
+
+ template: marquee
+ links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+**For a .pdf version of my full teaching portfolio**, [please click here](files/mcgready_teaching_portfolio.pdf).

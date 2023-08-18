@@ -1,0 +1,103 @@
+---
+title: ""
+about: 
+
+ template: marquee
+ links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+**For a .pdf version of my full academic CV**, [please click here](/files/cv.pdf).
+
+# Education
+
+-   **PhD Biostatistics**, [Johns Hopkins University Bloomberg School of Public Health](www.biostat.jhsph.edu), 2008
+-   **ScM Biostatistics**, [Harvard University School of Public Health](https://www.hsph.harvard.edu/biostatistics/), 1996
+-   **BA Mathematical Sciences**, [Johns Hopkins University](https://engineering.jhu.edu/ams/), 1991
+
+# Work Experience
+
+  [**Department of Biostatistics**](biostats.jhsph.edu)**, Johns Hopkins Bloomberg School of Public Health**   Baltimore, MD
+
+-   **Senior Scientist (non-tenured professor)**: 2019 - present
+-   Associate Scientist: 2012 - 2019
+-   Assistant Scientist: 2008 - 2012
+-   Instructor: 2002 - 2008
+
+  **Techworld Public Charter High School**   Washington DC
+
+-   Mathematics Teacher:1998 - 1999
+
+  [**The Urban Institute**](https://www.urban.org)    Washington DC
+
+-   Research Associate in [State Policy Center](https://www.urban.org/policy-centers/justice-policy-center): 1996 - 1998
+
+  **Health Care Investment Analysts**   Baltimore MD
+
+-   Healthcare Information Analyst: 1991 - 1994
+
+# Honors and Awards
+
+  **National/International**
+
+-   [ASPH/Pfizer Early Career Award for Teaching Excellence](https://publichealth.jhu.edu/2010/asph-pfizer-award), 2010
+-   Outstanding Teacher Award given by the Teaching Statistics in Health Sciences section of the American Statistical Association, 2010
+-   2006 Best Contributed Paper, Joint Statistical Meetings 2006, Section on Teaching Statistics in the Health Sciences
+
+  **Schoolwide: Johns Hopkins Bloomberg School of Public Health**
+
+-   [Advising, Mentoring, and Teaching Recognition Award (AMTRA)](/images/amtra2023 - 1.jpeg), 2023
+-   [Ernest Lyman Stebbins Medal](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/ernest-lyman-stebbins-medal), 2021
+-   Inductee, Delta Omega Public Health Society, 2020
+-   [Golden Apple Teaching Award](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/student-assembly-awards), 2020
+-   [Advising, Mentoring, and Teaching Recognition Award](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/student-assembly-awards) (AMTRA), 2018
+-   [Golden Apple Teaching Award](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/student-assembly-awards), 2016
+-   [Golden Apple Teaching Award](https://issuu.com/johnshopkins/docs/21may_issue__all_sixteen_pages_/8), 2012
+-   [Golden Apple Teaching Award](https://publichealth.jhu.edu/2008/golden-apple-award-bios-2008), 2008
+-   [Excellence in Online Education Award](https://publichealth.jhu.edu/2005/ctlt-excellence-awards), 2005
+-   [Golden Apple Teaching Award](https://publichealth.jhu.edu/2004/golden-apples-2004), 2004
+-   Golden Apple Teaching Award, 2001
+-   Excellence in Online Education Award, 2001
+-   Teaching Assistant Recognition Award, 2000
+
+**Schoolwide: Harvard Bloomberg School of Public Health**
+
+-   1996 Teaching Assistant of the Year, Harvard School of Public Health (HSPH)
+
+# Publications (from most recent 2 years)
+
+[please click here](pubs.qmd)
+
+# Talks
+
+[please click here](talks.qmd)
+
+# Teaching
+
+[please click here](teach.qmd)
+
+# Service and Leadership
+
+**Member Institutional Programs, Practices, and Policies, Working Group.** Association of Schools and Programs of Public Health (ASPPPH) (2018-2021)
+
+**Member: Scientific Advisory Board, 2017 Stata Conference**
+
+**(at the) Johns Hopkins Bloomberg School of Public Health** Baltimore, MD
+
+-   Faculty Teaching Mentor, Department of Biostatistics: 2020-present
+-   R3ISE Advisory Board: 2019 -- present
+-   Member, Master of Public Health (MPH) Executive Board: 2012 -- present
+-   Member, Master of Public Health (MPH) Admissions Committee: 2011 -present
+-   Member, Advisory Board, Center for Teaching and Learning Technology (CTLT): 2006- present
+-   Member, Online Programs for Applied Learning (OPAL) Advisory Board: 2016 - 2021
+-   Member and School of Public Health Representative , MEHP Curriculum Oversight Committee (MEHP is a University wide professional degree "Master Education for Health Professionals"): 2011 --2014
+-   Member, Student Conduct Board: 2010
+-   Member, Excellence in Teaching Task Force: 2009-10
+-   Member, Council on Education for Public Health (CEPH: 2004-06
+
+**(at the) Johns Hopkins University School of Medicine** Baltimore, MD Member, Search Committee for Director of Medical Education :2005

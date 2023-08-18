@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "John McGready"
+  navbar:
+    left:
+      - href: cv.qmd
+        text: CV
+      - href: pubs.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks 
+      - href: teach.qmd
+        text: Teaching
+
+format:
+  html:
+    css: styles.css
+    toc: true
+
+editor: visual

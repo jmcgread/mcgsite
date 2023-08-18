@@ -1,0 +1,54 @@
+---
+    title: "Presentations and Talks"
+    about: 
+
+     template: marquee
+     links:
+        - icon: twitter
+          text: twitter
+          href: https://twitter.com
+        - icon: github
+          text: Github
+          href: https://github.com
+---
+
+<i>The Luxury (and Necessity) of Context in Graduate Level Statistics Courses for Health Sciences Students</i>. Invited Talk. Annual Meetings of the Statistical Society of Canada, Montreal QB, June 2018.
+
+<i>Assessment: An Essential Component of Students' Learning and Educators' Understanding</i>. Topic Contributed Panel Session. Annual Meetings of the American Statistical Association, Baltimore MD, August 2017.
+
+<i>Statistics Education Through Online Education</i>. Invited Panel Session. Annual Meetings of the American Statistical Association, Seattle WA, August 2015.
+
+<i>Statistical Reasoning's New Look</i>. Invited talk, International Conference on Teaching Statistics, Flagstaff AZ, 2014.
+
+<i>Statistical Reasoning for the Masses</i>. Invited talk as part of the session "Massive Online Open Statistics (MOOS): Should We Be Teaching Statistics To 100,000 At a Time?". Annual Meetings of the Eastern North American International Biometric Society, Baltimore MD. 2014.
+
+<i>Teaching Statistical Reasoning to Public Health Graduate Students: Trying to Meet the Evolving Needs of Course Enrollees</i>. Contributed Session, Section on Teaching Statistics in the Health Sciences. Annual Meetings of the American Statistical Association, Montreal QB, August 2013.
+
+<i>Using Regression to Reinforce and Further Understanding about Confounding and Effect Modification</i>. Invited talk as part of the section "Teaching and Learning Applied Regression: Perspectives from Teachers and Students" Annual Meetings of the American Statistical Association, San Diego CA, August 2012.
+
+<i>Varying Data Based Examples to a Diverse Audience of Public Health Graduate Students in an Introductory Concept-Centric Biostatistics Course</i>. Contributed Session, Section on Teaching Statistics in the Health Sciences. Annual Meetings of the American Statistical Association, Miami Beach FL, August 2011.
+
+<i>Demystifying Hypothesis Testing</i>. Invited Session: "Moving Beyond the Roldodex of Formulas: Teaching Statistical Thinking". Annual Meetings of the Eastern North American International Biometric Society, Miami FL. 2011.
+
+<i>Interaction Effects and Explanatory Designs</i>. Invited Session given at Clinical Epidemiology and Biostatistics for the Practicioner (One Day Seminar sponsored by Bayiew Biostatistics, Epidemiology and Data Management Core). Johns Hopkins Bayview Medical Center, Baltimore MD, March 2011, October 2011.
+
+<i>On the Relative (Small Sample) Performance of Several Approaches to Confidence Intervals for a Difference in Means</i>. Contributed Session, Section on Statistical Computing. Annual Meetings of the American Statistical Association, Washington DC, August 2009.
+
+<i>Sample Size Computations for Detectable Odds Ratios in the Presence of a Binary Confounder</i>. Invited Lecture, Department of Epidemiology Advanced Graduate Student Seminar, Johns Hopkins Bloomberg School, Baltimore MD, 2008-14.
+
+<i>Teaching Introductory Statistics Online</i>. Invited Session, Section of Statistical Education. Annual Meetings of the American Statistical Associations, Denver CO, August 2008.
+
+<i>Basic Biostatistics: Online Learning Versus On Campus Learning</i>. Contributed Session, Annual Meetings of the American Statistical Associations, Seattle WA, August 2006.
+
+<i>Enter the Bootstrap</i>. Johns Hopkins University Bloomberg School of Public Health Wall of Wonder, Baltimore MD, March 2006. (part of the Department sponsored open lecture series "Everything You Wanted to Know About Biostatistics but were Afraid to Ask")
+
+<i>Smoothing Percentiles in R With an Application to Achondroplasia</i>. Contributed Session, Annual Meeting of the American Public Health Association, Philadelphia PA, December 2005.
+
+<i>Basic Biostatistics: An Online Success Story</i>. Contributed Session, Annual Meetings of the American Statistical Association, Minneapolis MN, August 2005.
+
+<i>Everyone's Favorite Subject On-Line! Bringing Biostatistics to the Web</i>. Contributed Session, The International Conference on Teaching and Learning, Jacksonville FL, April 2001
+
+<i>Difficulties in Achieving Truly Random Offender Samples: The Case for OPTS (Opportunity to Succeed) Evaluation</i>. Annual Meeting of the American Society of Criminology, San Diego CA, November 1997.
+
+</i>Time Served in Prison by Federal Offenders</i>. Annual Meeting of the American Society\
+of Criminology, San Diego CA, November 1997.
