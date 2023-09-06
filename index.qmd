@@ -15,6 +15,6 @@ about:
       href: https://github.com/jmcgread
 ---
 
-John McGready, ScM PhD is a Senior Scientist (non-tenured Professor) in the [Department of Biostatistics](www.biostat.jhsph.edu) at the [Johns Hopkins Bloomberg School of Public Health](www.jhsph.edu). John joined the department in 1999 as a Research Associate. Since then he has taught 1,000s of students, co-authored multiple scientific publications, been a co-advisor on multiple PhD dissertaions, and helped to shap the academic vision of the School via his long term membership on the Master of Public Health (MPH) program executive board, and other executive committees.
+John McGready, ScM PhD is a Senior Scientist (non-tenured Professor) in the [Department of Biostatistics](www.biostat.jhsph.edu) at the [Johns Hopkins Bloomberg School of Public Health](www.jhsph.edu). John joined the department in 1999 as a Research Associate. Since then he has taught 1,000s of students, co-authored multiple scientific publications, been a co-advisor on multiple PhD dissertaions, and helped to shape the academic vision of the School via his long term membership on the Master of Public Health (MPH) program executive board, and other executive committees.
 
-Thank you for visiting this webpage. Like John himself, this page is an ongoing work in progress.
+Thank you for visiting this webpage.
